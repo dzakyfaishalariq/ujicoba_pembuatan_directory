@@ -1,0 +1,2 @@
+ini merupakan sintaks pertama saya untuk membuat sebuah program.
+# Program ini akan menampilkan kata "Hello World"
